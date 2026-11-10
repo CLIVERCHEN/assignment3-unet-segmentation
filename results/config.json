@@ -1,0 +1,33 @@
+{
+  "device": "mps",
+  "epochs": 15,
+  "batch_size": 32,
+  "lr": 0.001,
+  "seed": 42,
+  "output": "results",
+  "train_seed": 2026,
+  "test_seed": 2027,
+  "selection_seed": 2028,
+  "n_train": 1000,
+  "n_test": 200,
+  "threshold": 0.5,
+  "parameters": 116753,
+  "python": "3.12.14",
+  "torch": "2.9.0",
+  "numpy": "2.2.6",
+  "pillow": "11.3.0",
+  "platform": "macOS-15.6-arm64-arm-64bit",
+  "processor": "arm64",
+  "train_sha256": "2d0551cf5ecb48fcf623f82f6f32fff5597484dcf0724c735b5894a5e801d507",
+  "test_sha256": "3e23afb613250bcb89e2de246d5c3d9567c078b197fdf892c105253b9dca6a5a",
+  "train_counts": {
+    "circle": 334,
+    "square": 333,
+    "triangle": 333
+  },
+  "test_counts": {
+    "circle": 67,
+    "square": 67,
+    "triangle": 66
+  }
+}

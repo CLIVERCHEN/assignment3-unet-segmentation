@@ -1,0 +1,3600 @@
+[
+  {
+    "index": 0,
+    "shape": "circle",
+    "angle_rad": 4.965965864722928,
+    "radius": 14,
+    "center": [
+      110,
+      73
+    ]
+  },
+  {
+    "index": 1,
+    "shape": "circle",
+    "angle_rad": 1.6894193535619424,
+    "radius": 16,
+    "center": [
+      81,
+      102
+    ]
+  },
+  {
+    "index": 2,
+    "shape": "circle",
+    "angle_rad": 3.405463880750856,
+    "radius": 18,
+    "center": [
+      46,
+      88
+    ]
+  },
+  {
+    "index": 3,
+    "shape": "triangle",
+    "angle_rad": 3.6856079482730975,
+    "vertex_span": 36.54764440286482,
+    "vertices": [
+      [
+        48,
+        75
+      ],
+      [
+        84,
+        68
+      ],
+      [
+        72,
+        97
+      ]
+    ]
+  },
+  {
+    "index": 4,
+    "shape": "circle",
+    "angle_rad": 1.8890480063210457,
+    "radius": 12,
+    "center": [
+      88,
+      94
+    ]
+  },
+  {
+    "index": 5,
+    "shape": "square",
+    "angle_rad": 2.375065152763024,
+    "half_side": 12,
+    "vertices": [
+      [
+        77,
+        66
+      ],
+      [
+        60,
+        83
+      ],
+      [
+        43,
+        65
+      ],
+      [
+        61,
+        49
+      ]
+    ]
+  },
+  {
+    "index": 6,
+    "shape": "triangle",
+    "angle_rad": 2.921708594229627,
+    "vertex_span": 30.565229387933385,
+    "vertices": [
+      [
+        85,
+        89
+      ],
+      [
+        100,
+        68
+      ],
+      [
+        107,
+        98
+      ]
+    ]
+  },
+  {
+    "index": 7,
+    "shape": "triangle",
+    "angle_rad": 2.6691860164040113,
+    "vertex_span": 58.63684629444361,
+    "vertices": [
+      [
+        11,
+        49
+      ],
+      [
+        37,
+        7
+      ],
+      [
+        69,
+        56
+      ]
+    ]
+  },
+  {
+    "index": 8,
+    "shape": "triangle",
+    "angle_rad": 4.668434505938326,
+    "vertex_span": 51.381024898505416,
+    "vertices": [
+      [
+        42,
+        79
+      ],
+      [
+        65,
+        118
+      ],
+      [
+        14,
+        116
+      ]
+    ]
+  },
+  {
+    "index": 9,
+    "shape": "square",
+    "angle_rad": 3.343492406310379,
+    "half_side": 22,
+    "vertices": [
+      [
+        69,
+        81
+      ],
+      [
+        26,
+        72
+      ],
+      [
+        35,
+        29
+      ],
+      [
+        78,
+        37
+      ]
+    ]
+  },
+  {
+    "index": 10,
+    "shape": "triangle",
+    "angle_rad": 4.471270384294007,
+    "vertex_span": 54.54146782776013,
+    "vertices": [
+      [
+        89,
+        50
+      ],
+      [
+        117,
+        89
+      ],
+      [
+        69,
+        101
+      ]
+    ]
+  },
+  {
+    "index": 11,
+    "shape": "triangle",
+    "angle_rad": 4.330273207352406,
+    "vertex_span": 50.56078184149161,
+    "vertices": [
+      [
+        30,
+        46
+      ],
+      [
+        67,
+        80
+      ],
+      [
+        30,
+        93
+      ]
+    ]
+  },
+  {
+    "index": 12,
+    "shape": "triangle",
+    "angle_rad": 0.4773155358452541,
+    "vertex_span": 34.80254855644455,
+    "vertices": [
+      [
+        70,
+        78
+      ],
+      [
+        36,
+        76
+      ],
+      [
+        50,
+        50
+      ]
+    ]
+  },
+  {
+    "index": 13,
+    "shape": "triangle",
+    "angle_rad": 1.5762278772826253,
+    "vertex_span": 46.38192544028326,
+    "vertices": [
+      [
+        76,
+        76
+      ],
+      [
+        64,
+        37
+      ],
+      [
+        99,
+        35
+      ]
+    ]
+  },
+  {
+    "index": 14,
+    "shape": "triangle",
+    "angle_rad": 5.672616368302262,
+    "vertex_span": 31.443044693358793,
+    "vertices": [
+      [
+        67,
+        48
+      ],
+      [
+        50,
+        72
+      ],
+      [
+        36,
+        48
+      ]
+    ]
+  },
+  {
+    "index": 15,
+    "shape": "triangle",
+    "angle_rad": 4.580820875861598,
+    "vertex_span": 49.336771586685586,
+    "vertices": [
+      [
+        66,
+        83
+      ],
+      [
+        100,
+        120
+      ],
+      [
+        58,
+        120
+      ]
+    ]
+  },
+  {
+    "index": 16,
+    "shape": "circle",
+    "angle_rad": 1.727910552648098,
+    "radius": 14,
+    "center": [
+      18,
+      44
+    ]
+  },
+  {
+    "index": 17,
+    "shape": "triangle",
+    "angle_rad": 2.2782938166357787,
+    "vertex_span": 36.099457689535726,
+    "vertices": [
+      [
+        75,
+        102
+      ],
+      [
+        76,
+        70
+      ],
+      [
+        103,
+        94
+      ]
+    ]
+  },
+  {
+    "index": 18,
+    "shape": "square",
+    "angle_rad": 2.6310140261976165,
+    "half_side": 19,
+    "vertices": [
+      [
+        59,
+        80
+      ],
+      [
+        26,
+        99
+      ],
+      [
+        7,
+        66
+      ],
+      [
+        41,
+        47
+      ]
+    ]
+  },
+  {
+    "index": 19,
+    "shape": "triangle",
+    "angle_rad": 5.806805623128474,
+    "vertex_span": 41.7087687875355,
+    "vertices": [
+      [
+        105,
+        59
+      ],
+      [
+        82,
+        92
+      ],
+      [
+        63,
+        54
+      ]
+    ]
+  },
+  {
+    "index": 20,
+    "shape": "circle",
+    "angle_rad": 2.7891490193236432,
+    "radius": 17,
+    "center": [
+      25,
+      52
+    ]
+  },
+  {
+    "index": 21,
+    "shape": "square",
+    "angle_rad": 1.8367632089544172,
+    "half_side": 25,
+    "vertices": [
+      [
+        66,
+        62
+      ],
+      [
+        53,
+        111
+      ],
+      [
+        5,
+        97
+      ],
+      [
+        18,
+        49
+      ]
+    ]
+  },
+  {
+    "index": 22,
+    "shape": "circle",
+    "angle_rad": 1.0702398607697519,
+    "radius": 10,
+    "center": [
+      45,
+      32
+    ]
+  },
+  {
+    "index": 23,
+    "shape": "circle",
+    "angle_rad": 4.0847855949468075,
+    "radius": 22,
+    "center": [
+      69,
+      61
+    ]
+  },
+  {
+    "index": 24,
+    "shape": "square",
+    "angle_rad": 2.724275232609606,
+    "half_side": 22,
+    "vertices": [
+      [
+        71,
+        47
+      ],
+      [
+        31,
+        65
+      ],
+      [
+        13,
+        25
+      ],
+      [
+        53,
+        7
+      ]
+    ]
+  },
+  {
+    "index": 25,
+    "shape": "square",
+    "angle_rad": 1.9749231718449567,
+    "half_side": 12,
+    "vertices": [
+      [
+        34,
+        77
+      ],
+      [
+        24,
+        99
+      ],
+      [
+        2,
+        90
+      ],
+      [
+        12,
+        68
+      ]
+    ]
+  },
+  {
+    "index": 26,
+    "shape": "circle",
+    "angle_rad": 0.8488748602620919,
+    "radius": 12,
+    "center": [
+      73,
+      88
+    ]
+  },
+  {
+    "index": 27,
+    "shape": "square",
+    "angle_rad": 4.184284362553691,
+    "half_side": 17,
+    "vertices": [
+      [
+        67,
+        100
+      ],
+      [
+        50,
+        70
+      ],
+      [
+        79,
+        53
+      ],
+      [
+        96,
+        83
+      ]
+    ]
+  },
+  {
+    "index": 28,
+    "shape": "square",
+    "angle_rad": 4.504986288447381,
+    "half_side": 14,
+    "vertices": [
+      [
+        57,
+        56
+      ],
+      [
+        52,
+        29
+      ],
+      [
+        79,
+        23
+      ],
+      [
+        85,
+        50
+      ]
+    ]
+  },
+  {
+    "index": 29,
+    "shape": "square",
+    "angle_rad": 4.545243835982127,
+    "half_side": 20,
+    "vertices": [
+      [
+        40,
+        101
+      ],
+      [
+        34,
+        62
+      ],
+      [
+        73,
+        55
+      ],
+      [
+        80,
+        95
+      ]
+    ]
+  },
+  {
+    "index": 30,
+    "shape": "circle",
+    "angle_rad": 5.421129063408515,
+    "radius": 12,
+    "center": [
+      54,
+      80
+    ]
+  },
+  {
+    "index": 31,
+    "shape": "triangle",
+    "angle_rad": 3.119156575936184,
+    "vertex_span": 39.700960922048786,
+    "vertices": [
+      [
+        69,
+        105
+      ],
+      [
+        96,
+        85
+      ],
+      [
+        103,
+        124
+      ]
+    ]
+  },
+  {
+    "index": 32,
+    "shape": "triangle",
+    "angle_rad": 1.9909026576590205,
+    "vertex_span": 37.30270604495161,
+    "vertices": [
+      [
+        70,
+        60
+      ],
+      [
+        71,
+        23
+      ],
+      [
+        99,
+        37
+      ]
+    ]
+  },
+  {
+    "index": 33,
+    "shape": "square",
+    "angle_rad": 1.4956659180881189,
+    "half_side": 21,
+    "vertices": [
+      [
+        71,
+        47
+      ],
+      [
+        74,
+        89
+      ],
+      [
+        32,
+        92
+      ],
+      [
+        29,
+        50
+      ]
+    ]
+  },
+  {
+    "index": 34,
+    "shape": "circle",
+    "angle_rad": 2.4655610069652467,
+    "radius": 13,
+    "center": [
+      38,
+      66
+    ]
+  },
+  {
+    "index": 35,
+    "shape": "circle",
+    "angle_rad": 1.7490779331579764,
+    "radius": 15,
+    "center": [
+      78,
+      38
+    ]
+  },
+  {
+    "index": 36,
+    "shape": "triangle",
+    "angle_rad": 4.928854728526463,
+    "vertex_span": 34.91576601871886,
+    "vertices": [
+      [
+        58,
+        21
+      ],
+      [
+        63,
+        54
+      ],
+      [
+        35,
+        47
+      ]
+    ]
+  },
+  {
+    "index": 37,
+    "shape": "triangle",
+    "angle_rad": 5.542604028519077,
+    "vertex_span": 51.214570896229,
+    "vertices": [
+      [
+        59,
+        70
+      ],
+      [
+        52,
+        115
+      ],
+      [
+        18,
+        77
+      ]
+    ]
+  },
+  {
+    "index": 38,
+    "shape": "square",
+    "angle_rad": 4.397353035139419,
+    "half_side": 18,
+    "vertices": [
+      [
+        35,
+        106
+      ],
+      [
+        24,
+        72
+      ],
+      [
+        59,
+        60
+      ],
+      [
+        70,
+        95
+      ]
+    ]
+  },
+  {
+    "index": 39,
+    "shape": "triangle",
+    "angle_rad": 5.042944607515779,
+    "vertex_span": 47.278301021697594,
+    "vertices": [
+      [
+        85,
+        19
+      ],
+      [
+        91,
+        66
+      ],
+      [
+        55,
+        45
+      ]
+    ]
+  },
+  {
+    "index": 40,
+    "shape": "triangle",
+    "angle_rad": 5.371994327744005,
+    "vertex_span": 42.266532959174555,
+    "vertices": [
+      [
+        93,
+        44
+      ],
+      [
+        83,
+        79
+      ],
+      [
+        52,
+        55
+      ]
+    ]
+  },
+  {
+    "index": 41,
+    "shape": "circle",
+    "angle_rad": 0.6359462101218758,
+    "radius": 17,
+    "center": [
+      64,
+      33
+    ]
+  },
+  {
+    "index": 42,
+    "shape": "circle",
+    "angle_rad": 1.3032942000317076,
+    "radius": 12,
+    "center": [
+      108,
+      110
+    ]
+  },
+  {
+    "index": 43,
+    "shape": "circle",
+    "angle_rad": 2.6706668264698523,
+    "radius": 18,
+    "center": [
+      58,
+      42
+    ]
+  },
+  {
+    "index": 44,
+    "shape": "circle",
+    "angle_rad": 4.613911943354392,
+    "radius": 10,
+    "center": [
+      25,
+      44
+    ]
+  },
+  {
+    "index": 45,
+    "shape": "circle",
+    "angle_rad": 3.1729372054059506,
+    "radius": 11,
+    "center": [
+      59,
+      51
+    ]
+  },
+  {
+    "index": 46,
+    "shape": "circle",
+    "angle_rad": 2.6228465062689925,
+    "radius": 19,
+    "center": [
+      46,
+      55
+    ]
+  },
+  {
+    "index": 47,
+    "shape": "square",
+    "angle_rad": 3.494741833089652,
+    "half_side": 23,
+    "vertices": [
+      [
+        101,
+        79
+      ],
+      [
+        58,
+        63
+      ],
+      [
+        73,
+        20
+      ],
+      [
+        117,
+        36
+      ]
+    ]
+  },
+  {
+    "index": 48,
+    "shape": "triangle",
+    "angle_rad": 5.4670965147522885,
+    "vertex_span": 49.03220540708458,
+    "vertices": [
+      [
+        63,
+        17
+      ],
+      [
+        59,
+        59
+      ],
+      [
+        20,
+        30
+      ]
+    ]
+  },
+  {
+    "index": 49,
+    "shape": "circle",
+    "angle_rad": 1.4903103246837188,
+    "radius": 14,
+    "center": [
+      39,
+      44
+    ]
+  },
+  {
+    "index": 50,
+    "shape": "square",
+    "angle_rad": 5.4927326584074025,
+    "half_side": 17,
+    "vertices": [
+      [
+        25,
+        51
+      ],
+      [
+        49,
+        27
+      ],
+      [
+        73,
+        51
+      ],
+      [
+        49,
+        75
+      ]
+    ]
+  },
+  {
+    "index": 51,
+    "shape": "square",
+    "angle_rad": 3.5132896172424006,
+    "half_side": 12,
+    "vertices": [
+      [
+        74,
+        80
+      ],
+      [
+        52,
+        72
+      ],
+      [
+        61,
+        49
+      ],
+      [
+        83,
+        58
+      ]
+    ]
+  },
+  {
+    "index": 52,
+    "shape": "square",
+    "angle_rad": 4.334008647064831,
+    "half_side": 25,
+    "vertices": [
+      [
+        46,
+        99
+      ],
+      [
+        28,
+        53
+      ],
+      [
+        74,
+        34
+      ],
+      [
+        92,
+        81
+      ]
+    ]
+  },
+  {
+    "index": 53,
+    "shape": "triangle",
+    "angle_rad": 2.457714916035629,
+    "vertex_span": 56.09588427177278,
+    "vertices": [
+      [
+        11,
+        118
+      ],
+      [
+        37,
+        69
+      ],
+      [
+        65,
+        109
+      ]
+    ]
+  },
+  {
+    "index": 54,
+    "shape": "circle",
+    "angle_rad": 2.738912030142786,
+    "radius": 21,
+    "center": [
+      34,
+      29
+    ]
+  },
+  {
+    "index": 55,
+    "shape": "circle",
+    "angle_rad": 0.8331973777472306,
+    "radius": 15,
+    "center": [
+      85,
+      98
+    ]
+  },
+  {
+    "index": 56,
+    "shape": "square",
+    "angle_rad": 4.4639977750568285,
+    "half_side": 15,
+    "vertices": [
+      [
+        14,
+        64
+      ],
+      [
+        7,
+        35
+      ],
+      [
+        36,
+        28
+      ],
+      [
+        43,
+        57
+      ]
+    ]
+  },
+  {
+    "index": 57,
+    "shape": "triangle",
+    "angle_rad": 5.747070315758685,
+    "vertex_span": 45.329730416491685,
+    "vertices": [
+      [
+        61,
+        6
+      ],
+      [
+        40,
+        46
+      ],
+      [
+        19,
+        14
+      ]
+    ]
+  },
+  {
+    "index": 58,
+    "shape": "triangle",
+    "angle_rad": 1.925480485936954,
+    "vertex_span": 46.09869391217348,
+    "vertices": [
+      [
+        89,
+        111
+      ],
+      [
+        83,
+        69
+      ],
+      [
+        125,
+        82
+      ]
+    ]
+  },
+  {
+    "index": 59,
+    "shape": "circle",
+    "angle_rad": 3.5723752486179525,
+    "radius": 16,
+    "center": [
+      35,
+      73
+    ]
+  },
+  {
+    "index": 60,
+    "shape": "triangle",
+    "angle_rad": 5.298772583834314,
+    "vertex_span": 34.65472538089026,
+    "vertices": [
+      [
+        75,
+        56
+      ],
+      [
+        69,
+        90
+      ],
+      [
+        46,
+        74
+      ]
+    ]
+  },
+  {
+    "index": 61,
+    "shape": "square",
+    "angle_rad": 1.5800077986479104,
+    "half_side": 23,
+    "vertices": [
+      [
+        58,
+        69
+      ],
+      [
+        58,
+        115
+      ],
+      [
+        12,
+        114
+      ],
+      [
+        12,
+        68
+      ]
+    ]
+  },
+  {
+    "index": 62,
+    "shape": "square",
+    "angle_rad": 3.184285434881214,
+    "half_side": 12,
+    "vertices": [
+      [
+        72,
+        107
+      ],
+      [
+        49,
+        106
+      ],
+      [
+        50,
+        82
+      ],
+      [
+        74,
+        83
+      ]
+    ]
+  },
+  {
+    "index": 63,
+    "shape": "triangle",
+    "angle_rad": 6.1655104583376925,
+    "vertex_span": 37.745688135921725,
+    "vertices": [
+      [
+        115,
+        95
+      ],
+      [
+        88,
+        121
+      ],
+      [
+        80,
+        87
+      ]
+    ]
+  },
+  {
+    "index": 64,
+    "shape": "square",
+    "angle_rad": 0.4253997328808044,
+    "half_side": 12,
+    "vertices": [
+      [
+        40,
+        34
+      ],
+      [
+        62,
+        44
+      ],
+      [
+        52,
+        66
+      ],
+      [
+        31,
+        56
+      ]
+    ]
+  },
+  {
+    "index": 65,
+    "shape": "triangle",
+    "angle_rad": 3.9996173129955874,
+    "vertex_span": 58.685153791000005,
+    "vertices": [
+      [
+        16,
+        60
+      ],
+      [
+        69,
+        86
+      ],
+      [
+        38,
+        110
+      ]
+    ]
+  },
+  {
+    "index": 66,
+    "shape": "circle",
+    "angle_rad": 1.5157939808724499,
+    "radius": 17,
+    "center": [
+      64,
+      76
+    ]
+  },
+  {
+    "index": 67,
+    "shape": "triangle",
+    "angle_rad": 3.9883095101845605,
+    "vertex_span": 47.78436674335286,
+    "vertices": [
+      [
+        6,
+        7
+      ],
+      [
+        39,
+        21
+      ],
+      [
+        15,
+        54
+      ]
+    ]
+  },
+  {
+    "index": 68,
+    "shape": "triangle",
+    "angle_rad": 4.654480178828926,
+    "vertex_span": 33.92906868840326,
+    "vertices": [
+      [
+        96,
+        94
+      ],
+      [
+        115,
+        123
+      ],
+      [
+        83,
+        121
+      ]
+    ]
+  },
+  {
+    "index": 69,
+    "shape": "square",
+    "angle_rad": 4.060821819928279,
+    "half_side": 17,
+    "vertices": [
+      [
+        62,
+        82
+      ],
+      [
+        41,
+        55
+      ],
+      [
+        68,
+        35
+      ],
+      [
+        89,
+        62
+      ]
+    ]
+  },
+  {
+    "index": 70,
+    "shape": "square",
+    "angle_rad": 1.7343793836010204,
+    "half_side": 21,
+    "vertices": [
+      [
+        119,
+        60
+      ],
+      [
+        113,
+        102
+      ],
+      [
+        71,
+        95
+      ],
+      [
+        78,
+        53
+      ]
+    ]
+  },
+  {
+    "index": 71,
+    "shape": "circle",
+    "angle_rad": 0.8539205907629682,
+    "radius": 25,
+    "center": [
+      58,
+      29
+    ]
+  },
+  {
+    "index": 72,
+    "shape": "square",
+    "angle_rad": 5.991705008656159,
+    "half_side": 20,
+    "vertices": [
+      [
+        20,
+        43
+      ],
+      [
+        59,
+        32
+      ],
+      [
+        70,
+        70
+      ],
+      [
+        32,
+        81
+      ]
+    ]
+  },
+  {
+    "index": 73,
+    "shape": "triangle",
+    "angle_rad": 4.472606276842232,
+    "vertex_span": 44.09431268702027,
+    "vertices": [
+      [
+        88,
+        83
+      ],
+      [
+        123,
+        110
+      ],
+      [
+        85,
+        123
+      ]
+    ]
+  },
+  {
+    "index": 74,
+    "shape": "triangle",
+    "angle_rad": 5.566937848079292,
+    "vertex_span": 40.476284974942466,
+    "vertices": [
+      [
+        106,
+        4
+      ],
+      [
+        90,
+        41
+      ],
+      [
+        76,
+        10
+      ]
+    ]
+  },
+  {
+    "index": 75,
+    "shape": "square",
+    "angle_rad": 2.1613567455716507,
+    "half_side": 13,
+    "vertices": [
+      [
+        54,
+        66
+      ],
+      [
+        39,
+        87
+      ],
+      [
+        18,
+        73
+      ],
+      [
+        32,
+        51
+      ]
+    ]
+  },
+  {
+    "index": 76,
+    "shape": "circle",
+    "angle_rad": 0.8109949237183682,
+    "radius": 11,
+    "center": [
+      62,
+      99
+    ]
+  },
+  {
+    "index": 77,
+    "shape": "triangle",
+    "angle_rad": 4.530069704105429,
+    "vertex_span": 35.36803513166394,
+    "vertices": [
+      [
+        96,
+        62
+      ],
+      [
+        113,
+        88
+      ],
+      [
+        84,
+        96
+      ]
+    ]
+  },
+  {
+    "index": 78,
+    "shape": "triangle",
+    "angle_rad": 5.8131071184345045,
+    "vertex_span": 57.2128775613131,
+    "vertices": [
+      [
+        56,
+        60
+      ],
+      [
+        33,
+        112
+      ],
+      [
+        6,
+        69
+      ]
+    ]
+  },
+  {
+    "index": 79,
+    "shape": "circle",
+    "angle_rad": 4.981450405737693,
+    "radius": 22,
+    "center": [
+      99,
+      97
+    ]
+  },
+  {
+    "index": 80,
+    "shape": "triangle",
+    "angle_rad": 0.07443040551447248,
+    "vertex_span": 34.424867204508914,
+    "vertices": [
+      [
+        81,
+        78
+      ],
+      [
+        47,
+        86
+      ],
+      [
+        58,
+        56
+      ]
+    ]
+  },
+  {
+    "index": 81,
+    "shape": "circle",
+    "angle_rad": 3.4306072019912923,
+    "radius": 22,
+    "center": [
+      102,
+      69
+    ]
+  },
+  {
+    "index": 82,
+    "shape": "circle",
+    "angle_rad": 0.8229071405993547,
+    "radius": 21,
+    "center": [
+      87,
+      59
+    ]
+  },
+  {
+    "index": 83,
+    "shape": "square",
+    "angle_rad": 3.26255188954013,
+    "half_side": 14,
+    "vertices": [
+      [
+        93,
+        80
+      ],
+      [
+        65,
+        77
+      ],
+      [
+        68,
+        49
+      ],
+      [
+        96,
+        52
+      ]
+    ]
+  },
+  {
+    "index": 84,
+    "shape": "square",
+    "angle_rad": 0.9034731986663017,
+    "half_side": 15,
+    "vertices": [
+      [
+        98,
+        50
+      ],
+      [
+        117,
+        73
+      ],
+      [
+        93,
+        92
+      ],
+      [
+        74,
+        68
+      ]
+    ]
+  },
+  {
+    "index": 85,
+    "shape": "circle",
+    "angle_rad": 0.6373354091893405,
+    "radius": 15,
+    "center": [
+      85,
+      108
+    ]
+  },
+  {
+    "index": 86,
+    "shape": "circle",
+    "angle_rad": 1.621893147335865,
+    "radius": 25,
+    "center": [
+      37,
+      91
+    ]
+  },
+  {
+    "index": 87,
+    "shape": "triangle",
+    "angle_rad": 5.648619583361883,
+    "vertex_span": 59.05988167574576,
+    "vertices": [
+      [
+        64,
+        74
+      ],
+      [
+        34,
+        125
+      ],
+      [
+        7,
+        75
+      ]
+    ]
+  },
+  {
+    "index": 88,
+    "shape": "circle",
+    "angle_rad": 5.082636836488379,
+    "radius": 25,
+    "center": [
+      95,
+      90
+    ]
+  },
+  {
+    "index": 89,
+    "shape": "triangle",
+    "angle_rad": 2.3966174678025474,
+    "vertex_span": 43.81233191299538,
+    "vertices": [
+      [
+        57,
+        51
+      ],
+      [
+        69,
+        11
+      ],
+      [
+        98,
+        43
+      ]
+    ]
+  },
+  {
+    "index": 90,
+    "shape": "circle",
+    "angle_rad": 0.26678471011405563,
+    "radius": 22,
+    "center": [
+      29,
+      97
+    ]
+  },
+  {
+    "index": 91,
+    "shape": "square",
+    "angle_rad": 3.860834081766077,
+    "half_side": 24,
+    "vertices": [
+      [
+        67,
+        104
+      ],
+      [
+        31,
+        72
+      ],
+      [
+        63,
+        36
+      ],
+      [
+        99,
+        68
+      ]
+    ]
+  },
+  {
+    "index": 92,
+    "shape": "triangle",
+    "angle_rad": 3.5759504925967596,
+    "vertex_span": 56.44268766501807,
+    "vertices": [
+      [
+        40,
+        28
+      ],
+      [
+        90,
+        22
+      ],
+      [
+        72,
+        74
+      ]
+    ]
+  },
+  {
+    "index": 93,
+    "shape": "square",
+    "angle_rad": 3.733758341525625,
+    "half_side": 22,
+    "vertices": [
+      [
+        76,
+        97
+      ],
+      [
+        39,
+        72
+      ],
+      [
+        64,
+        36
+      ],
+      [
+        100,
+        60
+      ]
+    ]
+  },
+  {
+    "index": 94,
+    "shape": "square",
+    "angle_rad": 1.2400497016972882,
+    "half_side": 16,
+    "vertices": [
+      [
+        85,
+        22
+      ],
+      [
+        95,
+        52
+      ],
+      [
+        65,
+        63
+      ],
+      [
+        55,
+        32
+      ]
+    ]
+  },
+  {
+    "index": 95,
+    "shape": "circle",
+    "angle_rad": 4.033758498724138,
+    "radius": 21,
+    "center": [
+      82,
+      43
+    ]
+  },
+  {
+    "index": 96,
+    "shape": "circle",
+    "angle_rad": 2.3541190496790976,
+    "radius": 11,
+    "center": [
+      29,
+      70
+    ]
+  },
+  {
+    "index": 97,
+    "shape": "triangle",
+    "angle_rad": 2.60494351008587,
+    "vertex_span": 34.27605722624891,
+    "vertices": [
+      [
+        78,
+        123
+      ],
+      [
+        94,
+        100
+      ],
+      [
+        113,
+        124
+      ]
+    ]
+  },
+  {
+    "index": 98,
+    "shape": "square",
+    "angle_rad": 2.448731446108952,
+    "half_side": 14,
+    "vertices": [
+      [
+        79,
+        97
+      ],
+      [
+        57,
+        115
+      ],
+      [
+        39,
+        93
+      ],
+      [
+        61,
+        75
+      ]
+    ]
+  },
+  {
+    "index": 99,
+    "shape": "triangle",
+    "angle_rad": 5.397120716222143,
+    "vertex_span": 49.13769780379071,
+    "vertices": [
+      [
+        108,
+        63
+      ],
+      [
+        92,
+        101
+      ],
+      [
+        61,
+        75
+      ]
+    ]
+  },
+  {
+    "index": 100,
+    "shape": "square",
+    "angle_rad": 0.9813460516602713,
+    "half_side": 19,
+    "vertices": [
+      [
+        59,
+        46
+      ],
+      [
+        80,
+        78
+      ],
+      [
+        49,
+        99
+      ],
+      [
+        27,
+        67
+      ]
+    ]
+  },
+  {
+    "index": 101,
+    "shape": "circle",
+    "angle_rad": 2.36640655651215,
+    "radius": 11,
+    "center": [
+      91,
+      33
+    ]
+  },
+  {
+    "index": 102,
+    "shape": "square",
+    "angle_rad": 5.040503059504732,
+    "half_side": 25,
+    "vertices": [
+      [
+        42,
+        103
+      ],
+      [
+        58,
+        56
+      ],
+      [
+        106,
+        72
+      ],
+      [
+        89,
+        119
+      ]
+    ]
+  },
+  {
+    "index": 103,
+    "shape": "circle",
+    "angle_rad": 5.220880948706818,
+    "radius": 10,
+    "center": [
+      104,
+      114
+    ]
+  },
+  {
+    "index": 104,
+    "shape": "circle",
+    "angle_rad": 2.043239925576555,
+    "radius": 19,
+    "center": [
+      71,
+      58
+    ]
+  },
+  {
+    "index": 105,
+    "shape": "square",
+    "angle_rad": 2.553553640357792,
+    "half_side": 18,
+    "vertices": [
+      [
+        123,
+        66
+      ],
+      [
+        93,
+        86
+      ],
+      [
+        73,
+        56
+      ],
+      [
+        103,
+        36
+      ]
+    ]
+  },
+  {
+    "index": 106,
+    "shape": "square",
+    "angle_rad": 3.784154176594682,
+    "half_side": 19,
+    "vertices": [
+      [
+        44,
+        101
+      ],
+      [
+        14,
+        78
+      ],
+      [
+        37,
+        48
+      ],
+      [
+        67,
+        70
+      ]
+    ]
+  },
+  {
+    "index": 107,
+    "shape": "triangle",
+    "angle_rad": 0.7357249533324097,
+    "vertex_span": 42.011837560691674,
+    "vertices": [
+      [
+        106,
+        49
+      ],
+      [
+        73,
+        34
+      ],
+      [
+        93,
+        9
+      ]
+    ]
+  },
+  {
+    "index": 108,
+    "shape": "triangle",
+    "angle_rad": 0.1579977477813409,
+    "vertex_span": 47.09352419145527,
+    "vertices": [
+      [
+        114,
+        52
+      ],
+      [
+        68,
+        62
+      ],
+      [
+        84,
+        21
+      ]
+    ]
+  },
+  {
+    "index": 109,
+    "shape": "square",
+    "angle_rad": 6.001840581604777,
+    "half_side": 14,
+    "vertices": [
+      [
+        57,
+        65
+      ],
+      [
+        84,
+        57
+      ],
+      [
+        92,
+        84
+      ],
+      [
+        65,
+        92
+      ]
+    ]
+  },
+  {
+    "index": 110,
+    "shape": "square",
+    "angle_rad": 0.8672382710799097,
+    "half_side": 25,
+    "vertices": [
+      [
+        68,
+        25
+      ],
+      [
+        101,
+        63
+      ],
+      [
+        63,
+        95
+      ],
+      [
+        30,
+        57
+      ]
+    ]
+  },
+  {
+    "index": 111,
+    "shape": "square",
+    "angle_rad": 3.3771861144049073,
+    "half_side": 25,
+    "vertices": [
+      [
+        63,
+        81
+      ],
+      [
+        15,
+        69
+      ],
+      [
+        26,
+        21
+      ],
+      [
+        75,
+        32
+      ]
+    ]
+  },
+  {
+    "index": 112,
+    "shape": "square",
+    "angle_rad": 3.161567519976652,
+    "half_side": 19,
+    "vertices": [
+      [
+        62,
+        88
+      ],
+      [
+        24,
+        87
+      ],
+      [
+        25,
+        49
+      ],
+      [
+        63,
+        50
+      ]
+    ]
+  },
+  {
+    "index": 113,
+    "shape": "circle",
+    "angle_rad": 2.7308961217495344,
+    "radius": 20,
+    "center": [
+      27,
+      22
+    ]
+  },
+  {
+    "index": 114,
+    "shape": "square",
+    "angle_rad": 5.026843506992136,
+    "half_side": 23,
+    "vertices": [
+      [
+        51,
+        110
+      ],
+      [
+        65,
+        66
+      ],
+      [
+        109,
+        80
+      ],
+      [
+        95,
+        124
+      ]
+    ]
+  },
+  {
+    "index": 115,
+    "shape": "triangle",
+    "angle_rad": 2.07183350828175,
+    "vertex_span": 56.70809232084896,
+    "vertices": [
+      [
+        69,
+        72
+      ],
+      [
+        66,
+        15
+      ],
+      [
+        109,
+        39
+      ]
+    ]
+  },
+  {
+    "index": 116,
+    "shape": "square",
+    "angle_rad": 2.695137259185178,
+    "half_side": 12,
+    "vertices": [
+      [
+        109,
+        67
+      ],
+      [
+        88,
+        77
+      ],
+      [
+        77,
+        55
+      ],
+      [
+        99,
+        45
+      ]
+    ]
+  },
+  {
+    "index": 117,
+    "shape": "circle",
+    "angle_rad": 4.814037940227492,
+    "radius": 24,
+    "center": [
+      41,
+      86
+    ]
+  },
+  {
+    "index": 118,
+    "shape": "circle",
+    "angle_rad": 0.6752337683387194,
+    "radius": 16,
+    "center": [
+      29,
+      33
+    ]
+  },
+  {
+    "index": 119,
+    "shape": "square",
+    "angle_rad": 1.3784700702181896,
+    "half_side": 18,
+    "vertices": [
+      [
+        41,
+        31
+      ],
+      [
+        48,
+        67
+      ],
+      [
+        13,
+        74
+      ],
+      [
+        6,
+        38
+      ]
+    ]
+  },
+  {
+    "index": 120,
+    "shape": "triangle",
+    "angle_rad": 2.8944825672860106,
+    "vertex_span": 40.33054952337975,
+    "vertices": [
+      [
+        10,
+        54
+      ],
+      [
+        38,
+        37
+      ],
+      [
+        46,
+        72
+      ]
+    ]
+  },
+  {
+    "index": 121,
+    "shape": "square",
+    "angle_rad": 1.7910351113660892,
+    "half_side": 19,
+    "vertices": [
+      [
+        85,
+        47
+      ],
+      [
+        77,
+        84
+      ],
+      [
+        40,
+        76
+      ],
+      [
+        48,
+        39
+      ]
+    ]
+  },
+  {
+    "index": 122,
+    "shape": "circle",
+    "angle_rad": 3.863187404124389,
+    "radius": 18,
+    "center": [
+      30,
+      78
+    ]
+  },
+  {
+    "index": 123,
+    "shape": "circle",
+    "angle_rad": 0.15490130572897629,
+    "radius": 17,
+    "center": [
+      42,
+      23
+    ]
+  },
+  {
+    "index": 124,
+    "shape": "circle",
+    "angle_rad": 0.1211091841972692,
+    "radius": 16,
+    "center": [
+      99,
+      103
+    ]
+  },
+  {
+    "index": 125,
+    "shape": "square",
+    "angle_rad": 1.235762495838781,
+    "half_side": 18,
+    "vertices": [
+      [
+        79,
+        26
+      ],
+      [
+        91,
+        60
+      ],
+      [
+        57,
+        72
+      ],
+      [
+        45,
+        38
+      ]
+    ]
+  },
+  {
+    "index": 126,
+    "shape": "square",
+    "angle_rad": 5.510184550816966,
+    "half_side": 13,
+    "vertices": [
+      [
+        70,
+        99
+      ],
+      [
+        89,
+        80
+      ],
+      [
+        107,
+        99
+      ],
+      [
+        88,
+        117
+      ]
+    ]
+  },
+  {
+    "index": 127,
+    "shape": "circle",
+    "angle_rad": 4.331529251420766,
+    "radius": 25,
+    "center": [
+      28,
+      87
+    ]
+  },
+  {
+    "index": 128,
+    "shape": "triangle",
+    "angle_rad": 5.420686487484784,
+    "vertex_span": 34.81403984447357,
+    "vertices": [
+      [
+        60,
+        93
+      ],
+      [
+        58,
+        123
+      ],
+      [
+        28,
+        107
+      ]
+    ]
+  },
+  {
+    "index": 129,
+    "shape": "triangle",
+    "angle_rad": 3.109811161838106,
+    "vertex_span": 52.43491704074641,
+    "vertices": [
+      [
+        9,
+        25
+      ],
+      [
+        46,
+        2
+      ],
+      [
+        52,
+        54
+      ]
+    ]
+  },
+  {
+    "index": 130,
+    "shape": "triangle",
+    "angle_rad": 0.5148792883906156,
+    "vertex_span": 33.556204306678836,
+    "vertices": [
+      [
+        62,
+        108
+      ],
+      [
+        30,
+        106
+      ],
+      [
+        50,
+        79
+      ]
+    ]
+  },
+  {
+    "index": 131,
+    "shape": "square",
+    "angle_rad": 5.189621942706017,
+    "half_side": 19,
+    "vertices": [
+      [
+        21,
+        80
+      ],
+      [
+        39,
+        47
+      ],
+      [
+        72,
+        64
+      ],
+      [
+        55,
+        98
+      ]
+    ]
+  },
+  {
+    "index": 132,
+    "shape": "square",
+    "angle_rad": 0.3336301759460008,
+    "half_side": 25,
+    "vertices": [
+      [
+        45,
+        37
+      ],
+      [
+        92,
+        53
+      ],
+      [
+        76,
+        101
+      ],
+      [
+        29,
+        84
+      ]
+    ]
+  },
+  {
+    "index": 133,
+    "shape": "circle",
+    "angle_rad": 5.966349455468864,
+    "radius": 17,
+    "center": [
+      82,
+      97
+    ]
+  },
+  {
+    "index": 134,
+    "shape": "circle",
+    "angle_rad": 6.015675982159658,
+    "radius": 17,
+    "center": [
+      88,
+      52
+    ]
+  },
+  {
+    "index": 135,
+    "shape": "triangle",
+    "angle_rad": 0.29166097013815556,
+    "vertex_span": 45.60216347528361,
+    "vertices": [
+      [
+        110,
+        39
+      ],
+      [
+        67,
+        52
+      ],
+      [
+        85,
+        11
+      ]
+    ]
+  },
+  {
+    "index": 136,
+    "shape": "circle",
+    "angle_rad": 6.25443214360212,
+    "radius": 22,
+    "center": [
+      88,
+      75
+    ]
+  },
+  {
+    "index": 137,
+    "shape": "circle",
+    "angle_rad": 1.7351516443159554,
+    "radius": 17,
+    "center": [
+      69,
+      60
+    ]
+  },
+  {
+    "index": 138,
+    "shape": "square",
+    "angle_rad": 4.28476631334397,
+    "half_side": 14,
+    "vertices": [
+      [
+        66,
+        46
+      ],
+      [
+        55,
+        20
+      ],
+      [
+        80,
+        9
+      ],
+      [
+        92,
+        34
+      ]
+    ]
+  },
+  {
+    "index": 139,
+    "shape": "triangle",
+    "angle_rad": 5.528319925323636,
+    "vertex_span": 41.589108816355676,
+    "vertices": [
+      [
+        100,
+        31
+      ],
+      [
+        85,
+        69
+      ],
+      [
+        64,
+        33
+      ]
+    ]
+  },
+  {
+    "index": 140,
+    "shape": "circle",
+    "angle_rad": 5.99373345318147,
+    "radius": 14,
+    "center": [
+      71,
+      64
+    ]
+  },
+  {
+    "index": 141,
+    "shape": "circle",
+    "angle_rad": 3.548630835443243,
+    "radius": 24,
+    "center": [
+      40,
+      56
+    ]
+  },
+  {
+    "index": 142,
+    "shape": "square",
+    "angle_rad": 6.138674259225624,
+    "half_side": 12,
+    "vertices": [
+      [
+        78,
+        83
+      ],
+      [
+        102,
+        80
+      ],
+      [
+        105,
+        104
+      ],
+      [
+        82,
+        107
+      ]
+    ]
+  },
+  {
+    "index": 143,
+    "shape": "square",
+    "angle_rad": 4.134227687603334,
+    "half_side": 19,
+    "vertices": [
+      [
+        78,
+        68
+      ],
+      [
+        58,
+        36
+      ],
+      [
+        89,
+        15
+      ],
+      [
+        110,
+        47
+      ]
+    ]
+  },
+  {
+    "index": 144,
+    "shape": "square",
+    "angle_rad": 2.587855867804909,
+    "half_side": 19,
+    "vertices": [
+      [
+        79,
+        77
+      ],
+      [
+        47,
+        97
+      ],
+      [
+        27,
+        64
+      ],
+      [
+        59,
+        44
+      ]
+    ]
+  },
+  {
+    "index": 145,
+    "shape": "circle",
+    "angle_rad": 2.8266967621795045,
+    "radius": 21,
+    "center": [
+      35,
+      83
+    ]
+  },
+  {
+    "index": 146,
+    "shape": "triangle",
+    "angle_rad": 3.826124802081198,
+    "vertex_span": 59.261155670877734,
+    "vertices": [
+      [
+        62,
+        76
+      ],
+      [
+        117,
+        79
+      ],
+      [
+        78,
+        124
+      ]
+    ]
+  },
+  {
+    "index": 147,
+    "shape": "circle",
+    "angle_rad": 2.6585459546991386,
+    "radius": 17,
+    "center": [
+      49,
+      27
+    ]
+  },
+  {
+    "index": 148,
+    "shape": "triangle",
+    "angle_rad": 0.7481828630055941,
+    "vertex_span": 41.91361241717039,
+    "vertices": [
+      [
+        63,
+        47
+      ],
+      [
+        27,
+        37
+      ],
+      [
+        45,
+        10
+      ]
+    ]
+  },
+  {
+    "index": 149,
+    "shape": "circle",
+    "angle_rad": 4.970347252480541,
+    "radius": 21,
+    "center": [
+      94,
+      28
+    ]
+  },
+  {
+    "index": 150,
+    "shape": "triangle",
+    "angle_rad": 0.18912850794969835,
+    "vertex_span": 39.24912765054217,
+    "vertices": [
+      [
+        82,
+        29
+      ],
+      [
+        51,
+        45
+      ],
+      [
+        53,
+        6
+      ]
+    ]
+  },
+  {
+    "index": 151,
+    "shape": "triangle",
+    "angle_rad": 4.950704932001995,
+    "vertex_span": 42.48704178033411,
+    "vertices": [
+      [
+        92,
+        47
+      ],
+      [
+        98,
+        79
+      ],
+      [
+        62,
+        76
+      ]
+    ]
+  },
+  {
+    "index": 152,
+    "shape": "square",
+    "angle_rad": 5.75864055952987,
+    "half_side": 15,
+    "vertices": [
+      [
+        31,
+        73
+      ],
+      [
+        57,
+        58
+      ],
+      [
+        72,
+        84
+      ],
+      [
+        46,
+        99
+      ]
+    ]
+  },
+  {
+    "index": 153,
+    "shape": "square",
+    "angle_rad": 3.2840961791453114,
+    "half_side": 24,
+    "vertices": [
+      [
+        66,
+        114
+      ],
+      [
+        18,
+        108
+      ],
+      [
+        25,
+        60
+      ],
+      [
+        72,
+        67
+      ]
+    ]
+  },
+  {
+    "index": 154,
+    "shape": "square",
+    "angle_rad": 1.570072892632816,
+    "half_side": 14,
+    "vertices": [
+      [
+        116,
+        69
+      ],
+      [
+        116,
+        97
+      ],
+      [
+        88,
+        97
+      ],
+      [
+        88,
+        69
+      ]
+    ]
+  },
+  {
+    "index": 155,
+    "shape": "square",
+    "angle_rad": 2.4826328291815156,
+    "half_side": 19,
+    "vertices": [
+      [
+        101,
+        70
+      ],
+      [
+        71,
+        93
+      ],
+      [
+        48,
+        63
+      ],
+      [
+        78,
+        40
+      ]
+    ]
+  },
+  {
+    "index": 156,
+    "shape": "circle",
+    "angle_rad": 2.04221547432037,
+    "radius": 17,
+    "center": [
+      54,
+      57
+    ]
+  },
+  {
+    "index": 157,
+    "shape": "circle",
+    "angle_rad": 5.841188689026685,
+    "radius": 10,
+    "center": [
+      15,
+      16
+    ]
+  },
+  {
+    "index": 158,
+    "shape": "square",
+    "angle_rad": 3.6441828619627348,
+    "half_side": 15,
+    "vertices": [
+      [
+        87,
+        58
+      ],
+      [
+        61,
+        43
+      ],
+      [
+        75,
+        17
+      ],
+      [
+        102,
+        31
+      ]
+    ]
+  },
+  {
+    "index": 159,
+    "shape": "triangle",
+    "angle_rad": 3.1341170553803073,
+    "vertex_span": 58.502675169056296,
+    "vertices": [
+      [
+        11,
+        79
+      ],
+      [
+        64,
+        55
+      ],
+      [
+        59,
+        112
+      ]
+    ]
+  },
+  {
+    "index": 160,
+    "shape": "square",
+    "angle_rad": 2.1364437408858326,
+    "half_side": 20,
+    "vertices": [
+      [
+        96,
+        30
+      ],
+      [
+        75,
+        63
+      ],
+      [
+        41,
+        42
+      ],
+      [
+        62,
+        8
+      ]
+    ]
+  },
+  {
+    "index": 161,
+    "shape": "triangle",
+    "angle_rad": 3.5921475090459793,
+    "vertex_span": 30.16962327327167,
+    "vertices": [
+      [
+        22,
+        11
+      ],
+      [
+        50,
+        11
+      ],
+      [
+        38,
+        36
+      ]
+    ]
+  },
+  {
+    "index": 162,
+    "shape": "square",
+    "angle_rad": 4.400367815148247,
+    "half_side": 19,
+    "vertices": [
+      [
+        75,
+        52
+      ],
+      [
+        63,
+        15
+      ],
+      [
+        99,
+        4
+      ],
+      [
+        111,
+        40
+      ]
+    ]
+  },
+  {
+    "index": 163,
+    "shape": "square",
+    "angle_rad": 6.1543812717737465,
+    "half_side": 17,
+    "vertices": [
+      [
+        4,
+        13
+      ],
+      [
+        37,
+        9
+      ],
+      [
+        42,
+        43
+      ],
+      [
+        8,
+        47
+      ]
+    ]
+  },
+  {
+    "index": 164,
+    "shape": "square",
+    "angle_rad": 5.3149083709624225,
+    "half_side": 14,
+    "vertices": [
+      [
+        51,
+        89
+      ],
+      [
+        67,
+        66
+      ],
+      [
+        90,
+        82
+      ],
+      [
+        74,
+        105
+      ]
+    ]
+  },
+  {
+    "index": 165,
+    "shape": "square",
+    "angle_rad": 3.352323363908283,
+    "half_side": 13,
+    "vertices": [
+      [
+        66,
+        71
+      ],
+      [
+        41,
+        66
+      ],
+      [
+        46,
+        40
+      ],
+      [
+        72,
+        46
+      ]
+    ]
+  },
+  {
+    "index": 166,
+    "shape": "circle",
+    "angle_rad": 5.260826047357219,
+    "radius": 22,
+    "center": [
+      51,
+      47
+    ]
+  },
+  {
+    "index": 167,
+    "shape": "circle",
+    "angle_rad": 1.6558023251650502,
+    "radius": 25,
+    "center": [
+      31,
+      69
+    ]
+  },
+  {
+    "index": 168,
+    "shape": "circle",
+    "angle_rad": 0.5589436554745376,
+    "radius": 11,
+    "center": [
+      109,
+      109
+    ]
+  },
+  {
+    "index": 169,
+    "shape": "triangle",
+    "angle_rad": 3.8546350842811896,
+    "vertex_span": 48.19973986575117,
+    "vertices": [
+      [
+        49,
+        25
+      ],
+      [
+        95,
+        38
+      ],
+      [
+        61,
+        67
+      ]
+    ]
+  },
+  {
+    "index": 170,
+    "shape": "circle",
+    "angle_rad": 2.707229729236337,
+    "radius": 19,
+    "center": [
+      65,
+      28
+    ]
+  },
+  {
+    "index": 171,
+    "shape": "circle",
+    "angle_rad": 5.135863310124661,
+    "radius": 21,
+    "center": [
+      43,
+      64
+    ]
+  },
+  {
+    "index": 172,
+    "shape": "triangle",
+    "angle_rad": 4.889117864592715,
+    "vertex_span": 59.0363546629882,
+    "vertices": [
+      [
+        55,
+        32
+      ],
+      [
+        77,
+        86
+      ],
+      [
+        31,
+        73
+      ]
+    ]
+  },
+  {
+    "index": 173,
+    "shape": "square",
+    "angle_rad": 1.5614233632895205,
+    "half_side": 20,
+    "vertices": [
+      [
+        82,
+        58
+      ],
+      [
+        83,
+        98
+      ],
+      [
+        43,
+        98
+      ],
+      [
+        42,
+        58
+      ]
+    ]
+  },
+  {
+    "index": 174,
+    "shape": "triangle",
+    "angle_rad": 4.97908082564134,
+    "vertex_span": 35.03693210792319,
+    "vertices": [
+      [
+        105,
+        31
+      ],
+      [
+        118,
+        59
+      ],
+      [
+        84,
+        49
+      ]
+    ]
+  },
+  {
+    "index": 175,
+    "shape": "triangle",
+    "angle_rad": 0.8610250918800761,
+    "vertex_span": 44.97934344948086,
+    "vertices": [
+      [
+        103,
+        44
+      ],
+      [
+        61,
+        28
+      ],
+      [
+        94,
+        3
+      ]
+    ]
+  },
+  {
+    "index": 176,
+    "shape": "circle",
+    "angle_rad": 4.510407581595897,
+    "radius": 19,
+    "center": [
+      93,
+      101
+    ]
+  },
+  {
+    "index": 177,
+    "shape": "square",
+    "angle_rad": 5.816369650453349,
+    "half_side": 21,
+    "vertices": [
+      [
+        15,
+        36
+      ],
+      [
+        53,
+        17
+      ],
+      [
+        72,
+        54
+      ],
+      [
+        34,
+        73
+      ]
+    ]
+  },
+  {
+    "index": 178,
+    "shape": "triangle",
+    "angle_rad": 0.42943045889118736,
+    "vertex_span": 47.026508353050474,
+    "vertices": [
+      [
+        101,
+        79
+      ],
+      [
+        55,
+        78
+      ],
+      [
+        77,
+        38
+      ]
+    ]
+  },
+  {
+    "index": 179,
+    "shape": "circle",
+    "angle_rad": 3.293308006758975,
+    "radius": 14,
+    "center": [
+      40,
+      63
+    ]
+  },
+  {
+    "index": 180,
+    "shape": "square",
+    "angle_rad": 5.723022714371048,
+    "half_side": 25,
+    "vertices": [
+      [
+        46,
+        37
+      ],
+      [
+        89,
+        11
+      ],
+      [
+        115,
+        53
+      ],
+      [
+        73,
+        79
+      ]
+    ]
+  },
+  {
+    "index": 181,
+    "shape": "triangle",
+    "angle_rad": 2.3250817489814626,
+    "vertex_span": 43.34546382790874,
+    "vertices": [
+      [
+        81,
+        109
+      ],
+      [
+        85,
+        68
+      ],
+      [
+        119,
+        94
+      ]
+    ]
+  },
+  {
+    "index": 182,
+    "shape": "square",
+    "angle_rad": 0.4888212010202352,
+    "half_side": 25,
+    "vertices": [
+      [
+        52,
+        34
+      ],
+      [
+        96,
+        57
+      ],
+      [
+        72,
+        101
+      ],
+      [
+        28,
+        78
+      ]
+    ]
+  },
+  {
+    "index": 183,
+    "shape": "square",
+    "angle_rad": 1.645870061249707,
+    "half_side": 20,
+    "vertices": [
+      [
+        62,
+        43
+      ],
+      [
+        59,
+        83
+      ],
+      [
+        19,
+        80
+      ],
+      [
+        22,
+        40
+      ]
+    ]
+  },
+  {
+    "index": 184,
+    "shape": "triangle",
+    "angle_rad": 6.062443778548173,
+    "vertex_span": 50.44348556758901,
+    "vertices": [
+      [
+        109,
+        64
+      ],
+      [
+        77,
+        103
+      ],
+      [
+        62,
+        59
+      ]
+    ]
+  },
+  {
+    "index": 185,
+    "shape": "triangle",
+    "angle_rad": 4.0821529507311,
+    "vertex_span": 56.181970214821995,
+    "vertices": [
+      [
+        59,
+        41
+      ],
+      [
+        109,
+        66
+      ],
+      [
+        70,
+        89
+      ]
+    ]
+  },
+  {
+    "index": 186,
+    "shape": "circle",
+    "angle_rad": 1.5008281844334852,
+    "radius": 21,
+    "center": [
+      73,
+      78
+    ]
+  },
+  {
+    "index": 187,
+    "shape": "triangle",
+    "angle_rad": 1.6668342508951688,
+    "vertex_span": 41.320589316109896,
+    "vertices": [
+      [
+        61,
+        98
+      ],
+      [
+        45,
+        60
+      ],
+      [
+        78,
+        63
+      ]
+    ]
+  },
+  {
+    "index": 188,
+    "shape": "circle",
+    "angle_rad": 5.606622980294332,
+    "radius": 20,
+    "center": [
+      77,
+      102
+    ]
+  },
+  {
+    "index": 189,
+    "shape": "triangle",
+    "angle_rad": 1.9810496448149923,
+    "vertex_span": 57.858574949222884,
+    "vertices": [
+      [
+        28,
+        119
+      ],
+      [
+        30,
+        73
+      ],
+      [
+        78,
+        91
+      ]
+    ]
+  },
+  {
+    "index": 190,
+    "shape": "circle",
+    "angle_rad": 0.6651700334220618,
+    "radius": 23,
+    "center": [
+      27,
+      101
+    ]
+  },
+  {
+    "index": 191,
+    "shape": "triangle",
+    "angle_rad": 4.337158119187447,
+    "vertex_span": 54.75623958211101,
+    "vertices": [
+      [
+        58,
+        5
+      ],
+      [
+        96,
+        44
+      ],
+      [
+        43,
+        54
+      ]
+    ]
+  },
+  {
+    "index": 192,
+    "shape": "square",
+    "angle_rad": 6.183359434384334,
+    "half_side": 24,
+    "vertices": [
+      [
+        20,
+        63
+      ],
+      [
+        68,
+        58
+      ],
+      [
+        73,
+        106
+      ],
+      [
+        25,
+        110
+      ]
+    ]
+  },
+  {
+    "index": 193,
+    "shape": "triangle",
+    "angle_rad": 5.807647459636907,
+    "vertex_span": 33.87857521347539,
+    "vertices": [
+      [
+        40,
+        47
+      ],
+      [
+        24,
+        76
+      ],
+      [
+        10,
+        45
+      ]
+    ]
+  },
+  {
+    "index": 194,
+    "shape": "square",
+    "angle_rad": 4.500674047529111,
+    "half_side": 13,
+    "vertices": [
+      [
+        97,
+        103
+      ],
+      [
+        91,
+        78
+      ],
+      [
+        116,
+        72
+      ],
+      [
+        122,
+        98
+      ]
+    ]
+  },
+  {
+    "index": 195,
+    "shape": "square",
+    "angle_rad": 5.8943907879680895,
+    "half_side": 12,
+    "vertices": [
+      [
+        69,
+        74
+      ],
+      [
+        92,
+        65
+      ],
+      [
+        101,
+        88
+      ],
+      [
+        79,
+        97
+      ]
+    ]
+  },
+  {
+    "index": 196,
+    "shape": "circle",
+    "angle_rad": 4.774468221603043,
+    "radius": 19,
+    "center": [
+      38,
+      60
+    ]
+  },
+  {
+    "index": 197,
+    "shape": "triangle",
+    "angle_rad": 3.3333732975867894,
+    "vertex_span": 43.409596004727234,
+    "vertices": [
+      [
+        38,
+        55
+      ],
+      [
+        81,
+        48
+      ],
+      [
+        67,
+        87
+      ]
+    ]
+  },
+  {
+    "index": 198,
+    "shape": "triangle",
+    "angle_rad": 6.2164951479262065,
+    "vertex_span": 59.89916883115002,
+    "vertices": [
+      [
+        81,
+        59
+      ],
+      [
+        28,
+        86
+      ],
+      [
+        26,
+        35
+      ]
+    ]
+  },
+  {
+    "index": 199,
+    "shape": "circle",
+    "angle_rad": 0.11942281688339235,
+    "radius": 18,
+    "center": [
+      57,
+      30
+    ]
+  }
+]
